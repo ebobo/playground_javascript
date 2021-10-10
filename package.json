@@ -1,0 +1,8 @@
+{
+  "name": "playground_javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ebobo/playground_javascript.git",
+  "author": "qi xu <qi.xu@autronicafire.no>",
+  "license": "MIT"
+}
